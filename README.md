@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shlevanto
-- 👀 I’m interested in both human and computer behaviour. 
-- 🌱 I’m currently learning computer sciences at University of Helsinki.
+- 🌱 I’m a psycholigst and BSc in computer science.
+- 👀 I'm nterested in how humans, computers and data behaviour. 
+- 🧑‍🎓 PhD student at DocPop, University of Helsinki
 - 💞️ I’m looking to collaborate on anything interesting and fun.
 - 📫 You can reach me at simo.levanto@helsinki.fi
 
