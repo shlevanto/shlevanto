@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shlevanto
-- 🌱 I’m a psycholigst and BSc in computer science.
-- 👀 I'm nterested in how humans, computers and data behaviour. 
+- 🌱 Psycholigst and BSc in computer science.
 - 🧑‍🎓 PhD student at DocPop, University of Helsinki
-- 💞️ I’m looking to collaborate on anything interesting and fun.
+- 👀 Researching work disability risks on population scale using Bayeasian networks 
+- 💞️ Looking to collaborate on anything interesting and fun.
 - 📫 You can reach me at simo.levanto@helsinki.fi
 
 <!---
